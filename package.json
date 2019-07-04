@@ -1,6 +1,6 @@
 {
     "name": "jvzoo-ipn-signature-verifier",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "verifies the signature of jvzoo ipn webhook",
     "main": "index.js",
     "scripts": {

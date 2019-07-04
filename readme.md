@@ -4,10 +4,10 @@ jvzoo-signature-verifier is a nodejs library for dealing with jvzoo ipn signatur
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/package/npm) to install jvzoo-signature-verifier.
+Use the package manager [npm](https://www.npmjs.com/package/npm) to install jvzoo-ipn-signature-verifier.
 
 ```bash
-npm install jvzoo-signature-verifier
+npm i jvzoo-ipn-signature-verifier
 ```
 
 ## Usage
