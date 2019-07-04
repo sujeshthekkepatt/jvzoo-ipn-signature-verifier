@@ -1,0 +1,27 @@
+{
+    "name": "jvzoo-ipn-signature-verifier",
+    "version": "1.0.0",
+    "description": "verifies the signature of jvzoo ipn webhook",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "jvzoo",
+        "signature",
+        "verifier",
+        "paypal",
+        "ipn",
+        "jvzooIpn"
+    ],
+    "author": "sujeshthekkepatt@gmail.com",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/sujeshthekkepatt/jvzoo-ipn-signature-verifier.git"
+    },
+    "license": "MIT",
+    "dependencies": {
+        "sha1": "^1.1.1",
+        "utf8": "^3.0.0"
+    }
+}
