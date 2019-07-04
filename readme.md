@@ -13,9 +13,9 @@ npm install jvzoo-signature-verifier
 ## Usage
 
 ```node js
-const jvzooVerifier =  require("jvzoo-signature-verifier");
+const JvzooVerifier =  require('jvzoo-ipn-signature-verifier');
 
-const verifier = new jvzooVerifier('Your key');
+const verifier = new JvzooVerifier('Your key');
 
 verifier.verify(req.body); # returns 'true' or 'false' 
 
