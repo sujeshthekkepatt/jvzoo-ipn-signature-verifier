@@ -1,4 +1,4 @@
-const jvzooVerifier = require('./lib');
+const JvzooVerifier = require('./lib');
 
 
-module.exports = jvzooVerifier;
+module.exports = JvzooVerifier;
